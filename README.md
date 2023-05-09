@@ -23,12 +23,12 @@ To run the tests, make sure you have the following software installed on your sy
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/VinichenkoB/{}.git
+git clone https://github.com/VinichenkoB/UseinsiderUITests.git
 
 ```
 2. Navigate to the project directory:
 ```bash
-cd 
+cd UseinsiderUITests
 ```
 
 3. Install the required packages using Poetry:
